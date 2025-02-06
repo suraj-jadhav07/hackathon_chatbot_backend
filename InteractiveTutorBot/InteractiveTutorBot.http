@@ -1,0 +1,6 @@
+@InteractiveTutorBot_HostAddress = http://localhost:5170
+
+GET {{InteractiveTutorBot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
